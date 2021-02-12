@@ -1,5 +1,10 @@
 # Changelog
 
+## 7.0.0 (12.02.2021)
+
+Replaced plain space by non-breaking space in [formatPhoneNumberString](./lib/format-phone-number-string.ts).
+
+
 ## 6.6.0 (05.02.2021)
 
 Added [formatBytes](./lib/format-bytes.ts).

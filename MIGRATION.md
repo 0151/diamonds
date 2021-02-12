@@ -1,5 +1,11 @@
 # Migrations
 
+## 6.6.0 → 7.0.0
+
+Make sure that using non-breaking space in result of [formatPhoneNumberString](./lib/format-phone-number-string.ts)
+fits well to your project.
+
+
 ## 5.0.0 → 6.0.0
 
 Use `@funboxteam/diamonds` instead of `@funboxteam/helpers`.
